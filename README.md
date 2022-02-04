@@ -6,7 +6,7 @@ This will just save your group files to a Channel & will provide a link to retri
 ## Deploy to Heroku
 Press Below Button to Deploy as Lazy Deploy:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/AbirHasan2005/Save-Group)
 
 Using Heroku CLI
 ```shell
